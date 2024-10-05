@@ -1,2 +1,4 @@
-print("Git Tutorial")
-print("Miki Ghosh")
+Git Tutorial
+ Miki Ghosh
+ UChicago Student Resource Guide
+
